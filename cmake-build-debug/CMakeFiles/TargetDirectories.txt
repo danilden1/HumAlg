@@ -1,0 +1,5 @@
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/cmake-build-debug/CMakeFiles/HumAlg.dir
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/cmake-build-debug/CMakeFiles/HumAlg_lib.dir
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/cmake-build-debug/CMakeFiles/HumAlg_test.dir
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

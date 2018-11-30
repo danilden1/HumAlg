@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\HumAlg_test.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\HumAlg_test.dir/objects.a @CMakeFiles\HumAlg_test.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\HumAlg_test.dir/objects.a -Wl,--no-whole-archive  -o HumAlg_test.exe -Wl,--out-implib,libHumAlg_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HumAlg_test.dir\linklibs.rsp

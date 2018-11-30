@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/HumAlg_lib.h
+vector
+-
+stdlib.h
+-
+iostream
+-
+cstdlib
+-
+limits
+-
+
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/HumAlg_main.cpp
+iostream
+-
+HumAlg_lib.h
+D:/Programms/111/High Code/Kursach/Hungarian-algorithm-master/HumAlg_lib.h
+
