@@ -1,6 +1,6 @@
 //
 // Created by Данил on 11.11.2018.
-//
+//is it work?
 #include <iostream>
 #include "HumAlg_lib.h"
 
